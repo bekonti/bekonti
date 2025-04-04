@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bekzat-zharylkassyn-940a541bb) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@Bekka811) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bekzat.jobs@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bekzat-zharylkassyn-940a541bb) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Bekka811) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bekzat.jobs@gmail.com) 
 
 <picture>
   <img alt="github-snake" src="https://github.com/bekonti/bekonti/blob/output/github-contribution-grid-snake-dark.svg" />
